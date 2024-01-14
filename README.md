@@ -35,6 +35,5 @@ Selain itu, saya juga memiliki pengetahuan dalam desain menggunakan Canva dan Fi
 #### [fijarriyadi@gmail.com]
 #### [Jln.Tambak Deres VI, Surabaya]
 #### [fijar.r1]
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
 
