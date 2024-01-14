@@ -7,7 +7,7 @@ Selain itu, saya juga memiliki pengetahuan dalam desain menggunakan Canva dan Fi
 ## Education:
 
 #### 1. [Universitas Muhammadiyah Surabaya](https://www.um-surabaya.ac.id/) | INFORMATIKA | 
- #### 2. [SMK Muhammadiyah 1 Surabaya.](https://smkm1surabaya.sch.id/) | MULTIMEDIA | 
+#### 2. [SMK Muhammadiyah 1 Surabaya.](https://smkm1surabaya.sch.id/) | MULTIMEDIA | 
 
 ## Project Experience:
 #### 1. [PROJECT FAF-Food-Delivery](https://www.figma.com/proto/uFBm7VsOaDZr6igebWIGTX/FAF-Food-Delivery?type=design&node-id=15-1494&t=b5DSViuZPN8Km1v3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A1494&show-proto-sidebar=1&mode=design)
