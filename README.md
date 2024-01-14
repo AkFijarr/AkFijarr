@@ -6,23 +6,11 @@ Selain itu, saya juga memiliki pengetahuan dalam desain menggunakan Canva dan Fi
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas Muhammadiyah Surabaya](https://www.um-surabaya.ac.id/) | INFORMATIKA | 
+ #### 2. [https://smkm1surabaya.sch.id/](https://smkm1surabaya.sch.id/) | MULTIMEDIA | 
 
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
----
+## PROJECT Experience:
+#### 1. [PROJECT FAF-Food-Delivery](https://www.figma.com/proto/uFBm7VsOaDZr6igebWIGTX/FAF-Food-Delivery?type=design&node-id=15-1494&t=b5DSViuZPN8Km1v3-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A1494&show-proto-sidebar=1&mode=design)
 
 ### Languages and Tools:
 
