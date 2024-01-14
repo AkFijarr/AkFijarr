@@ -1,11 +1,8 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# MUHAMMAD AKMAL FIJAR RIYADI
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+Saya Akmal, seorang mahasiswa Informatika dari kampus Universitas Muhammadiyah Surabaya. Saya memiliki pengalaman dalam mempelajari bahasa pemrograman seperti Java, HTML, Python, dan MySQL. 
+
+Selain itu, saya juga memiliki pengetahuan dalam desain menggunakan Canva dan Figma. Saya sangat tertarik dalam mengembangkan keterampilan saya dalam bidang teknologi dan senang belajar hal-hal baru yang berkaitan dengan dunia IT.
 
 ## Education:
 
